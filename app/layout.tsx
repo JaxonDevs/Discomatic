@@ -7,6 +7,8 @@ import { cn } from "@/lib/utils";
 
 const font = Open_Sans({ subsets: ["latin"] });
 
+
+
 export const metadata: Metadata = {
   title: "Discomatic",
   description: "The next Omatic thing!",
