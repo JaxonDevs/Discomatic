@@ -1,6 +1,6 @@
 # Discomatic
 
-Discomatic is a full-stack Discord bot application, following the tutorial by Code With Antonio.
+Discomatic is a full-stack Discord clone application, following the tutorial by Code With Antonio.
 
 ## Prerequisites
 
