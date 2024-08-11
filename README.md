@@ -45,8 +45,11 @@ NEXT_PUBLIC_LIVEKIT_URL=
    ```
 
 [Clerk](https://clerk.com/)
+
 [Supabase](https://supabase.com/)
+
 [UploadThing](https://uploadthing.com/)
+
 [LiveKit](https://livekit.io/)   (HAVE NOT TESTED PROPERLY)
 
 4. Time to run it:
