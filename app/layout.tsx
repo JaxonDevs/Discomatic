@@ -17,7 +17,7 @@ const font = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Discomatic',
-  description: 'Talkomatics discord!',
+  description: 'Talkomatics discord clone!',
 }
 
 export default function RootLayout({
