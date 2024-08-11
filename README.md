@@ -6,10 +6,8 @@ Discomatic is a full-stack Discord bot application, following the tutorial by Co
 
 Ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v16.x or higher)
-- [npm](https://www.npmjs.com/) (v7.x or higher)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Prisma](https://www.prisma.io/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) 
 
 ## Installation
 
